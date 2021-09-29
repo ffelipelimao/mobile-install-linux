@@ -85,7 +85,7 @@ Em seguida, será perguntado sobre qual tema será utilizado. Escolha o que pref
 
 Chegamos na etapa mais importante do processo, a instalação da SDK. A janela apresentará algumas opções, marque todas.
 
-![image](https://user-images.githubusercontent.com/28612817/135296578-f655419f-b6a9-4f85-9317-268d3743eced.png)
+![image](https://user-images.githubusercontent.com/28612817/135296653-ab77c89a-65e2-4abd-9ed6-eaee6b76df96.png)
 
 - SDK é o pacote que vai possibilitar que sua aplicação React Native faça o build. Por padrão, ele instala a última SDK estável;
 - O Android Virtual Device vai criar um emulador padrão pronto para execução.
