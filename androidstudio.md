@@ -79,15 +79,13 @@ Na sequência, será pedido o tipo de instalação. Escolha a opção Custom e c
 
 Nesse momento, será pedido para escolher a localização do pacote JDK instalado. Clique em ⬇ e verifique se a opção JAVA_HOME está apontando para a JDK. Se sim, escolha e Clique em Next. Caso contrário, clique no no botão ... e escolha a JDK (você pode inclusive utilizar o caminho anotado no passo anterior para te ajudar).
 
-IMAGEM1
+![image](https://user-images.githubusercontent.com/28612817/135296552-37aff4aa-1935-4b8c-b0af-f341a4712ca2.png)
 
 Em seguida, será perguntado sobre qual tema será utilizado. Escolha o que preferir e clique em Next
 
 Chegamos na etapa mais importante do processo, a instalação da SDK. A janela apresentará algumas opções, marque todas.
 
-IMAGEM2
-
-
+![image](https://user-images.githubusercontent.com/28612817/135296578-f655419f-b6a9-4f85-9317-268d3743eced.png)
 
 - SDK é o pacote que vai possibilitar que sua aplicação React Native faça o build. Por padrão, ele instala a última SDK estável;
 - O Android Virtual Device vai criar um emulador padrão pronto para execução.
